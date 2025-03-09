@@ -146,5 +146,5 @@ src
 
 ## License This software is licensed under the terms of the [MIT]
 
-⌨️ FelipeAguiar -
-[Github](https://github.com/felipeAguiarCode)
+⌨️ Thiago Aquino -
+[Github](https://github.com/thiagoaquinodasilva/dio-documentation)
